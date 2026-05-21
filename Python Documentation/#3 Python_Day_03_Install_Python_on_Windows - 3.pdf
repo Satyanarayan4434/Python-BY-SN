@@ -1,0 +1,1699 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 12 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 12558
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.952941 .972549 .988235 rg
+n 0 0 612 792 re f*
+.058824 .176471 .290196 rg
+n 0 636 612 156 re f*
+.145098 .380392 .627451 rg
+n 428 636 184 156 re f*
+.176471 .54902 1 rg
+n 0 636 16 156 re f*
+.145098 .741176 .466667 rg
+n 16 636 5 156 re f*
+1 w
+.301961 .635294 .937255 RG
+.062745 .156863 .247059 rg
+n
+54 668 m
+92 668 l
+96.4224 668 100 671.5776 100 676 c
+100 714 l
+100 718.4224 96.4224 722 92 722 c
+54 722 l
+49.5776 722 46 718.4224 46 714 c
+46 676 l
+46 671.5776 49.5776 668 54 668 c
+h
+B*
+BT /F2 20 Tf 24 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 62 690 Tm (Py) Tj T* ET
+BT /F2 23 Tf 27.6 TL ET
+1 1 1 rg
+BT 1 0 0 1 116 716 Tm (Day 03/55 - Install Python) Tj T* ET
+BT /F1 13 Tf 15.6 TL ET
+BT 1 0 0 1 116 692 Tm (Windows local development setup) Tj T* ET
+1 w
+.247059 .588235 .862745 RG
+.090196 .27451 .443137 rg
+n
+123 657 m
+317 657 l
+320.8696 657 324 660.1304 324 664 c
+324 672 l
+324 675.8696 320.8696 679 317 679 c
+123 679 l
+119.1304 679 116 675.8696 116 672 c
+116 664 l
+116 660.1304 119.1304 657 123 657 c
+h
+B*
+BT /F2 8 Tf 9.6 TL ET
+.831373 .917647 .980392 rg
+BT 1 0 0 1 128 663 Tm (Prepared by Satyanarayan Sen) Tj T* ET
+.454902 .67451 .847059 RG
+1.2 w
+n 440 714 m 584 714 l S
+.145098 .741176 .466667 rg
+n
+442 714 m
+442 715.1046 441.1046 716 440 716 c
+438.8954 716 438 715.1046 438 714 c
+438 712.8954 438.8954 712 440 712 c
+441.1046 712 442 712.8954 442 714 c
+f*
+n
+586 714 m
+586 715.1046 585.1046 716 584 716 c
+582.8954 716 582 715.1046 582 714 c
+582 712.8954 582.8954 712 584 712 c
+585.1046 712 586 712.8954 586 714 c
+f*
+n 440 690 m 584 690 l S
+.145098 .741176 .466667 rg
+n
+442 690 m
+442 691.1046 441.1046 692 440 692 c
+438.8954 692 438 691.1046 438 690 c
+438 688.8954 438.8954 688 440 688 c
+441.1046 688 442 688.8954 442 690 c
+f*
+n
+586 690 m
+586 691.1046 585.1046 692 584 692 c
+582.8954 692 582 691.1046 582 690 c
+582 688.8954 582.8954 688 584 688 c
+585.1046 688 586 688.8954 586 690 c
+f*
+n 440 666 m 584 666 l S
+.145098 .741176 .466667 rg
+n
+442 666 m
+442 667.1046 441.1046 668 440 668 c
+438.8954 668 438 667.1046 438 666 c
+438 664.8954 438.8954 664 440 664 c
+441.1046 664 442 664.8954 442 666 c
+f*
+n
+586 666 m
+586 667.1046 585.1046 668 584 668 c
+582.8954 668 582 667.1046 582 666 c
+582 664.8954 582.8954 664 584 664 c
+585.1046 664 586 664.8954 586 666 c
+f*
+.184314 .47451 .74902 rg
+n
+471 676 m
+552 676 l
+556.4224 676 560 679.5776 560 684 c
+560 723 l
+560 727.4224 556.4224 731 552 731 c
+471 731 l
+466.5776 731 463 727.4224 463 723 c
+463 684 l
+463 679.5776 466.5776 676 471 676 c
+h
+f*
+.145098 .741176 .466667 rg
+n
+517 733 m
+558 733 l
+562.4224 733 566 736.5776 566 741 c
+566 745 l
+566 749.4224 562.4224 753 558 753 c
+517 753 l
+512.5776 753 509 749.4224 509 745 c
+509 741 l
+509 736.5776 512.5776 733 517 733 c
+h
+f*
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+54 560 m
+558 560 l
+562.4224 560 566 563.5776 566 568 c
+566 632 l
+566 636.4224 562.4224 640 558 640 c
+54 640 l
+49.5776 640 46 636.4224 46 632 c
+46 568 l
+46 563.5776 49.5776 560 54 560 c
+h
+B*
+.145098 .741176 .466667 rg
+n 46 560 6 80 re f*
+BT /F2 12 Tf 14.4 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 66 619 Tm (Video Summary) Tj T* ET
+BT /F1 9.2 Tf 11.04 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 66 600 Tm (This lesson walks beginners through setting up Python locally on a Windows machine. It covers checking whether) Tj T* ET
+BT 1 0 0 1 66 588 Tm (Python is already installed, downloading the official installer, selecting the PATH option, reopening the terminal, and) Tj T* ET
+BT 1 0 0 1 66 576 Tm (running both interactive commands and saved .py files.) Tj T* ET
+BT /F2 16 Tf 19.2 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 46 528 Tm (Core ideas from the lesson) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+54 405 m
+160 405 l
+164.4224 405 168 408.5776 168 413 c
+168 501 l
+168 505.4224 164.4224 509 160 509 c
+54 509 l
+49.5776 509 46 505.4224 46 501 c
+46 413 l
+46 408.5776 49.5776 405 54 405 c
+h
+B*
+.917647 .952941 1 rg
+n
+68 470 m
+86 470 l
+90.4224 470 94 473.5776 94 478 c
+94 496 l
+94 500.4224 90.4224 504 86 504 c
+68 504 l
+63.5776 504 60 500.4224 60 496 c
+60 478 l
+60 473.5776 63.5776 470 68 470 c
+h
+f*
+.176471 .54902 1 RG
+.176471 .54902 1 rg
+1.6 w
+n 66 487 m 74 479 l S
+n 74 479 m 89 497 l S
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 104 484 Tm (Verify) Tj T* ET
+BT /F1 8.2 Tf 9.84 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 60 445 Tm (Check python --version or) Tj T* ET
+BT 1 0 0 1 60 434.8 Tm (python3 --version before) Tj T* ET
+BT 1 0 0 1 60 424.6 Tm (installing.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+188 405 m
+294 405 l
+298.4224 405 302 408.5776 302 413 c
+302 501 l
+302 505.4224 298.4224 509 294 509 c
+188 509 l
+183.5776 509 180 505.4224 180 501 c
+180 413 l
+180 408.5776 183.5776 405 188 405 c
+h
+B*
+.909804 .984314 .94902 rg
+n
+202 470 m
+220 470 l
+224.4224 470 228 473.5776 228 478 c
+228 496 l
+228 500.4224 224.4224 504 220 504 c
+202 504 l
+197.5776 504 194 500.4224 194 496 c
+194 478 l
+194 473.5776 197.5776 470 202 470 c
+h
+f*
+.145098 .741176 .466667 RG
+.145098 .741176 .466667 rg
+1.6 w
+n 211 499 m 211 483 l S
+n 204 490 m 211 482 l S
+n 218 490 m 211 482 l S
+n
+200 473 m
+222 473 l
+223.1056 473 224 473.8944 224 475 c
+224 478 l
+224 479.1056 223.1056 480 222 480 c
+200 480 l
+198.8944 480 198 479.1056 198 478 c
+198 475 l
+198 473.8944 198.8944 473 200 473 c
+h
+S
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 238 484 Tm (Download) Tj T* ET
+BT /F1 8.2 Tf 9.84 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 194 445 Tm (Use the official Python) Tj T* ET
+BT 1 0 0 1 194 434.8 Tm (website for the latest) Tj T* ET
+BT 1 0 0 1 194 424.6 Tm (stable Windows installer.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+322 405 m
+428 405 l
+432.4224 405 436 408.5776 436 413 c
+436 501 l
+436 505.4224 432.4224 509 428 509 c
+322 509 l
+317.5776 509 314 505.4224 314 501 c
+314 413 l
+314 408.5776 317.5776 405 322 405 c
+h
+B*
+.909804 .972549 .984314 rg
+n
+336 470 m
+354 470 l
+358.4224 470 362 473.5776 362 478 c
+362 496 l
+362 500.4224 358.4224 504 354 504 c
+336 504 l
+331.5776 504 328 500.4224 328 496 c
+328 478 l
+328 473.5776 331.5776 470 336 470 c
+h
+f*
+.082353 .678431 .768627 RG
+.082353 .678431 .768627 rg
+1.6 w
+n
+336 476 m
+354 476 l
+355.6584 476 357 477.3416 357 479 c
+357 495 l
+357 496.6584 355.6584 498 354 498 c
+336 498 l
+334.3416 498 333 496.6584 333 495 c
+333 479 l
+333 477.3416 334.3416 476 336 476 c
+h
+S
+n 338 487 m 352 487 l S
+n 345 480 m 345 494 l S
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 372 484 Tm (PATH) Tj T* ET
+BT /F1 8.2 Tf 9.84 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 328 445 Tm (Select Add python.exe to) Tj T* ET
+BT 1 0 0 1 328 434.8 Tm (PATH during setup to) Tj T* ET
+BT 1 0 0 1 328 424.6 Tm (avoid manual fixes.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+456 405 m
+562 405 l
+566.4224 405 570 408.5776 570 413 c
+570 501 l
+570 505.4224 566.4224 509 562 509 c
+456 509 l
+451.5776 509 448 505.4224 448 501 c
+448 413 l
+448 408.5776 451.5776 405 456 405 c
+h
+B*
+1 .964706 .862745 rg
+n
+470 470 m
+488 470 l
+492.4224 470 496 473.5776 496 478 c
+496 496 l
+496 500.4224 492.4224 504 488 504 c
+470 504 l
+465.5776 504 462 500.4224 462 496 c
+462 478 l
+462 473.5776 465.5776 470 470 470 c
+h
+f*
+.898039 .603922 0 RG
+.898039 .603922 0 rg
+1.6 w
+n
+468 477 m
+490 477 l
+491.6584 477 493 478.3416 493 480 c
+493 494 l
+493 495.6584 491.6584 497 490 497 c
+468 497 l
+466.3416 497 465 495.6584 465 494 c
+465 480 l
+465 478.3416 466.3416 477 468 477 c
+h
+S
+n 471 491 m 476 487 l S
+n 471 483 m 476 487 l S
+n 481 482 m 489 482 l S
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 506 484 Tm (Run Code) Tj T* ET
+BT /F1 8.2 Tf 9.84 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 462 445 Tm (Use the Python prompt) Tj T* ET
+BT 1 0 0 1 462 434.8 Tm (for quick tests and .py) Tj T* ET
+BT 1 0 0 1 462 424.6 Tm (files for scripts.) Tj T* ET
+.909804 .984314 .94902 rg
+n
+53 344 m
+73 344 l
+76.8696 344 80 347.1304 80 351 c
+80 367 l
+80 370.8696 76.8696 374 73 374 c
+53 374 l
+49.1304 374 46 370.8696 46 367 c
+46 351 l
+46 347.1304 49.1304 344 53 344 c
+h
+f*
+BT /F2 11 Tf 13.2 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 59.942 354 Tm (1) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 92 352 Tm (Before You Install) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 324 Tm (Start by checking whether Python is already available on your computer. Open Command Prompt, PowerShell, or Windows) Tj T* ET
+BT 1 0 0 1 46 311.6 Tm (Terminal and run a version command. If a version number appears, Python is installed. If Windows cannot find Python,) Tj T* ET
+BT 1 0 0 1 46 299.2 Tm (continue with the official installer.) Tj T* ET
+1 w
+.062745 .156863 .247059 RG
+.062745 .156863 .247059 rg
+n
+76 226 m
+284 226 l
+287.3168 226 290 228.6832 290 232 c
+290 288 l
+290 291.3168 287.3168 294 284 294 c
+76 294 l
+72.6832 294 70 291.3168 70 288 c
+70 232 l
+70 228.6832 72.6832 226 76 226 c
+h
+B*
+BT /F2 7.5 Tf 9 TL ET
+.623529 .831373 1 rg
+BT 1 0 0 1 82 277 Tm (terminal check) Tj T* ET
+BT /F3 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 82 260 Tm (python --version) Tj T* ET
+1 1 1 rg
+BT 1 0 0 1 82 247 Tm (python3 --version) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+320 222 m
+526 222 l
+530.4224 222 534 225.5776 534 230 c
+534 290 l
+534 294.4224 530.4224 298 526 298 c
+320 298 l
+315.5776 298 312 294.4224 312 290 c
+312 230 l
+312 225.5776 315.5776 222 320 222 c
+h
+B*
+BT /F2 10.2 Tf 12.24 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 330 276 Tm (Why this check matters) Tj T* ET
+BT /F1 8.6 Tf 10.32 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 330 258 Tm (It saves time and avoids duplicate installs.) Tj T* ET
+BT 1 0 0 1 330 247 Tm (Confirm first, then install only when needed.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+78 127 m
+534 127 l
+538.4224 127 542 130.5776 542 135 c
+542 189 l
+542 193.4224 538.4224 197 534 197 c
+78 197 l
+73.5776 197 70 193.4224 70 189 c
+70 135 l
+70 130.5776 73.5776 127 78 127 c
+h
+B*
+.917647 .952941 1 rg
+n
+100 150 m
+177 150 l
+181.4224 150 185 153.5776 185 158 c
+185 176 l
+185 180.4224 181.4224 184 177 184 c
+100 184 l
+95.5776 184 92 180.4224 92 176 c
+92 158 l
+92 153.5776 95.5776 150 100 150 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.176471 .54902 1 rg
+BT 1 0 0 1 124.2452 162 Tm (Check) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 192 167 m 203 167 l S
+n 203 167 m 198 171 l S
+n 203 167 m 198 163 l S
+.909804 .984314 .94902 rg
+n
+215 150 m
+292 150 l
+296.4224 150 300 153.5776 300 158 c
+300 176 l
+300 180.4224 296.4224 184 292 184 c
+215 184 l
+210.5776 184 207 180.4224 207 176 c
+207 158 l
+207 153.5776 210.5776 150 215 150 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 230.8045 162 Tm (Download) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 307 167 m 318 167 l S
+n 318 167 m 313 171 l S
+n 318 167 m 313 163 l S
+.909804 .972549 .984314 rg
+n
+330 150 m
+407 150 l
+411.4224 150 415 153.5776 415 158 c
+415 176 l
+415 180.4224 411.4224 184 407 184 c
+330 184 l
+325.5776 184 322 180.4224 322 176 c
+322 158 l
+322 153.5776 325.5776 150 330 150 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.082353 .678431 .768627 rg
+BT 1 0 0 1 354.7725 162 Tm (Install) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 422 167 m 433 167 l S
+n 433 167 m 428 171 l S
+n 433 167 m 428 163 l S
+1 .964706 .862745 rg
+n
+445 150 m
+522 150 l
+526.4224 150 530 153.5776 530 158 c
+530 176 l
+530 180.4224 526.4224 184 522 184 c
+445 184 l
+440.5776 184 437 180.4224 437 176 c
+437 158 l
+437 153.5776 440.5776 150 445 150 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.898039 .603922 0 rg
+BT 1 0 0 1 466.0817 162 Tm (Reopen) Tj T* ET
+BT /F1 8.3 Tf 9.96 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 93 135 Tm (A fresh terminal session is needed after installation so PATH changes are loaded.) Tj T* ET
+1 w
+.737255 .843137 .956863 RG
+.917647 .952941 1 rg
+n
+90 75 m
+522 75 l
+526.4224 75 530 78.5776 530 83 c
+530 105 l
+530 109.4224 526.4224 113 522 113 c
+90 113 l
+85.5776 113 82 109.4224 82 105 c
+82 83 l
+82 78.5776 85.5776 75 90 75 c
+h
+B*
+BT /F2 9.8 Tf 11.76 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 100 98 Tm (Beginner takeaway) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 100 84 Tm (Verify first, install from python.org, reopen the terminal, then run scripts.) Tj T* ET
+.843137 .886275 .929412 RG
+.8 w
+n 46 56 m 566 56 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 46 43 Tm (Python From Zero to Hero - Day 03/55) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 249.192 43 Tm (Prepared by Satyanarayan Sen) Tj T* ET
+BT 1 0 0 1 525.08 43 Tm (Page 1 of 3) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 13 0 R ]
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056python\056org\057downloads\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 90 572 290 588 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Length 8504
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.952941 .972549 .988235 rg
+n 0 0 612 792 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 46 740 Tm (PAGE 02) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 46 722 Tm (Python From Zero to Hero) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 205 722 Tm (Downloading, installing, and verifying Python) Tj T* ET
+.909804 .984314 .94902 rg
+n
+53 664 m
+73 664 l
+76.8696 664 80 667.1304 80 671 c
+80 687 l
+80 690.8696 76.8696 694 73 694 c
+53 694 l
+49.1304 694 46 690.8696 46 687 c
+46 671 l
+46 667.1304 49.1304 664 53 664 c
+h
+f*
+BT /F2 11 Tf 13.2 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 59.942 674 Tm (2) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 92 672 Tm (Download Python Safely) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 642 Tm (Visit the official Python website and download the current stable Windows installer. The lesson emphasizes using the official) Tj T* ET
+BT 1 0 0 1 46 629.6 Tm (source so beginners avoid unsafe downloads and get the standard installer experience.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+78 565 m
+534 565 l
+538.4224 565 542 568.5776 542 573 c
+542 605 l
+542 609.4224 538.4224 613 534 613 c
+78 613 l
+73.5776 613 70 609.4224 70 605 c
+70 573 l
+70 568.5776 73.5776 565 78 565 c
+h
+B*
+BT /F2 9.5 Tf 11.4 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 90 591 Tm (Official download page) Tj T* ET
+BT /F4 9 Tf 10.8 TL ET
+.176471 .54902 1 rg
+BT 1 0 0 1 90 575 Tm (https://www.python.org/downloads/) Tj T* ET
+.909804 .984314 .94902 rg
+n
+53 498 m
+73 498 l
+76.8696 498 80 501.1304 80 505 c
+80 521 l
+80 524.8696 76.8696 528 73 528 c
+53 528 l
+49.1304 528 46 524.8696 46 521 c
+46 505 l
+46 501.1304 49.1304 498 53 498 c
+h
+f*
+BT /F2 11 Tf 13.2 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 59.942 508 Tm (3) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 92 506 Tm (Install With PATH Selected) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 477 Tm (During installation, the most important beginner-friendly step is selecting the PATH option on the first installer screen.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+78 330 m
+277 330 l
+281.4224 330 285 333.5776 285 338 c
+285 441 l
+285 445.4224 281.4224 449 277 449 c
+78 449 l
+73.5776 449 70 445.4224 70 441 c
+70 338 l
+70 333.5776 73.5776 330 78 330 c
+h
+B*
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 90 426 Tm (Installer checklist) Tj T* ET
+.145098 .741176 .466667 RG
+1.2 w
+n
+92 400 m
+99 400 l
+100.1056 400 101 400.8944 101 402 c
+101 409 l
+101 410.1056 100.1056 411 99 411 c
+92 411 l
+90.8944 411 90 410.1056 90 409 c
+90 402 l
+90 400.8944 90.8944 400 92 400 c
+h
+S
+n 92 405 m 96 401 l S
+n 96 401 m 102 410 l S
+BT /F1 8.5 Tf 10.2 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 112 406 Tm (Download the Windows installer.) Tj T* ET
+.145098 .741176 .466667 RG
+1.2 w
+n
+92 377 m
+99 377 l
+100.1056 377 101 377.8944 101 379 c
+101 386 l
+101 387.1056 100.1056 388 99 388 c
+92 388 l
+90.8944 388 90 387.1056 90 386 c
+90 379 l
+90 377.8944 90.8944 377 92 377 c
+h
+S
+n 92 382 m 96 378 l S
+n 96 378 m 102 387 l S
+BT /F1 8.5 Tf 10.2 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 112 383 Tm (Check Add python.exe to PATH.) Tj T* ET
+.145098 .741176 .466667 RG
+1.2 w
+n
+92 354 m
+99 354 l
+100.1056 354 101 354.8944 101 356 c
+101 363 l
+101 364.1056 100.1056 365 99 365 c
+92 365 l
+90.8944 365 90 364.1056 90 363 c
+90 356 l
+90 354.8944 90.8944 354 92 354 c
+h
+S
+n 92 359 m 96 355 l S
+n 96 355 m 102 364 l S
+BT /F1 8.5 Tf 10.2 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 112 360 Tm (Choose Install Now.) Tj T* ET
+.145098 .741176 .466667 RG
+1.2 w
+n
+92 331 m
+99 331 l
+100.1056 331 101 331.8944 101 333 c
+101 340 l
+101 341.1056 100.1056 342 99 342 c
+92 342 l
+90.8944 342 90 341.1056 90 340 c
+90 333 l
+90 331.8944 90.8944 331 92 331 c
+h
+S
+n 92 336 m 96 332 l S
+n 96 332 m 102 341 l S
+BT /F1 8.5 Tf 10.2 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 112 337 Tm (Wait for setup to complete.) Tj T* ET
+1 w
+.741176 .921569 .835294 RG
+.909804 .984314 .94902 rg
+n
+315 330 m
+534 330 l
+538.4224 330 542 333.5776 542 338 c
+542 441 l
+542 445.4224 538.4224 449 534 449 c
+315 449 l
+310.5776 449 307 445.4224 307 441 c
+307 338 l
+307 333.5776 310.5776 330 315 330 c
+h
+B*
+BT /F2 13 Tf 15.6 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 329 420 Tm (Important) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 329 395 Tm (Add python.exe to PATH) Tj T* ET
+BT /F1 8.7 Tf 10.44 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 329 373 Tm (This makes the python command available from) Tj T* ET
+BT 1 0 0 1 329 361.8 Tm (any terminal folder. Without it, beginners often) Tj T* ET
+BT 1 0 0 1 329 350.6 Tm (need manual PATH configuration later.) Tj T* ET
+BT /F2 13.5 Tf 16.2 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 46 286 Tm (After setup: close and reopen the terminal) Tj T* ET
+BT /F1 9.1 Tf 10.92 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 264 Tm (A terminal that was already open will not automatically know about the new PATH setting. Close it, open a new one, and verify) Tj T* ET
+BT 1 0 0 1 46 252 Tm (again.) Tj T* ET
+.058824 .176471 .290196 rg
+n
+52 194 m
+560 194 l
+563.3168 194 566 196.6832 566 200 c
+566 218 l
+566 221.3168 563.3168 224 560 224 c
+52 224 l
+48.6832 224 46 221.3168 46 218 c
+46 200 l
+46 196.6832 48.6832 194 52 194 c
+h
+f*
+BT /F2 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 58 205 Tm (Command) Tj T* ET
+BT 1 0 0 1 200 205 Tm (What it checks) Tj T* ET
+BT 1 0 0 1 397 205 Tm (Expected result) Tj T* ET
+1 1 1 rg
+n 46 160 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 160 m 566 160 l S
+BT /F4 7.7 Tf 9.24 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 58 180 Tm (python --version) Tj T* ET
+n 188 194 m 188 160 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 200 180 Tm (Confirms Python is reachable from PATH.) Tj T* ET
+n 385 194 m 385 160 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 397 180 Tm (A Python version number is printed.) Tj T* ET
+.972549 .984314 .996078 rg
+n 46 126 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 126 m 566 126 l S
+BT /F4 7.7 Tf 9.24 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 58 146 Tm (python) Tj T* ET
+n 188 160 m 188 126 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 200 146 Tm (Starts the interactive Python prompt.) Tj T* ET
+n 385 160 m 385 126 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 397 146 Tm (A >>> prompt appears for quick commands.) Tj T* ET
+1 1 1 rg
+n 46 92 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 92 m 566 92 l S
+BT /F4 7.7 Tf 9.24 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 58 112 Tm (exit\(\)) Tj T* ET
+n 188 126 m 188 92 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 200 112 Tm (Leaves the Python prompt.) Tj T* ET
+n 385 126 m 385 92 l S
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 397 112 Tm (You return to the normal terminal.) Tj T* ET
+.839216 .890196 .937255 RG
+n 46 92 520 132 re S
+1 w
+.737255 .843137 .956863 RG
+.917647 .952941 1 rg
+n
+90 60 m
+522 60 l
+526.4224 60 530 63.5776 530 68 c
+530 80 l
+530 84.4224 526.4224 88 522 88 c
+90 88 l
+85.5776 88 82 84.4224 82 80 c
+82 68 l
+82 63.5776 85.5776 60 90 60 c
+h
+B*
+BT /F2 9.8 Tf 11.76 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 100 73 Tm (Learning mindset) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 100 69 Tm (The PATH checkbox keeps the first local setup smooth and lets you focus on code.) Tj T* ET
+.843137 .886275 .929412 RG
+.8 w
+n 46 56 m 566 56 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 46 43 Tm (Python From Zero to Hero - Day 03/55) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 249.192 43 Tm (Prepared by Satyanarayan Sen) Tj T* ET
+BT 1 0 0 1 525.08 43 Tm (Page 2 of 3) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.952941 0.972549 0.988235 rg
+n
+78 56 456 38 re
+f*
+0.917647 0.952941 1 rg
+0.737255 0.843137 0.956863 RG
+1 w
+n
+90 58 m
+522 58 l
+526.4224 58 530 61.5776 530 66 c
+530 82 l
+530 86.4224 526.4224 90 522 90 c
+90 90 l
+85.5776 90 82 86.4224 82 82 c
+82 66 l
+82 61.5776 85.5776 58 90 58 c
+h
+B*
+BT
+/F2-0 9.8 Tf
+11.76 TL
+ET
+0.058824 0.176471 0.290196 rg
+BT
+1 0 0 1 100 77 Tm
+(Learning mindset) Tj
+T*
+ET
+BT
+/F1-0 7.8 Tf
+9.36 TL
+ET
+0.07451 0.133333 0.219608 rg
+BT
+1 0 0 1 100 67 Tm
+(The PATH checkbox keeps the first local setup smooth and lets you focus on code\056) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 11044
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.952941 .972549 .988235 rg
+n 0 0 612 792 re f*
+BT /F2 8.5 Tf 10.2 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 46 740 Tm (PAGE 03) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 46 722 Tm (Python From Zero to Hero) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 205 722 Tm (Running Python commands and saved scripts) Tj T* ET
+.909804 .984314 .94902 rg
+n
+53 664 m
+73 664 l
+76.8696 664 80 667.1304 80 671 c
+80 687 l
+80 690.8696 76.8696 694 73 694 c
+53 694 l
+49.1304 694 46 690.8696 46 687 c
+46 671 l
+46 667.1304 49.1304 664 53 664 c
+h
+f*
+BT /F2 11 Tf 13.2 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 59.942 674 Tm (4) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 92 672 Tm (Run Code in the Terminal) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 642 Tm (For quick practice, type python in the terminal to open the Python prompt. This is useful for testing small commands) Tj T* ET
+BT 1 0 0 1 46 629.6 Tm (immediately without creating a file.) Tj T* ET
+1 w
+.062745 .156863 .247059 RG
+.062745 .156863 .247059 rg
+n
+76 548 m
+536 548 l
+539.3168 548 542 550.6832 542 554 c
+542 608 l
+542 611.3168 539.3168 614 536 614 c
+76 614 l
+72.6832 614 70 611.3168 70 608 c
+70 554 l
+70 550.6832 72.6832 548 76 548 c
+h
+B*
+BT /F2 7.5 Tf 9 TL ET
+.623529 .831373 1 rg
+BT 1 0 0 1 82 597 Tm (interactive prompt) Tj T* ET
+BT /F3 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 82 580 Tm (python) Tj T* ET
+1 1 1 rg
+BT 1 0 0 1 82 567 Tm (>>> print\("Hello World"\)) Tj T* ET
+1 1 1 rg
+BT 1 0 0 1 82 554 Tm (Hello World) Tj T* ET
+.909804 .984314 .94902 rg
+n
+53 488 m
+73 488 l
+76.8696 488 80 491.1304 80 495 c
+80 511 l
+80 514.8696 76.8696 518 73 518 c
+53 518 l
+49.1304 518 46 514.8696 46 511 c
+46 495 l
+46 491.1304 49.1304 488 53 488 c
+h
+f*
+BT /F2 11 Tf 13.2 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 59.942 498 Tm (5) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 92 496 Tm (Save and Run a Python File) Tj T* ET
+BT /F1 9.3 Tf 11.16 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 46 468 Tm (For longer programs, write code in a text editor such as Notepad and save the file with a .py extension. The extension matters) Tj T* ET
+BT 1 0 0 1 46 455.6 Tm (because it tells tools and IDEs that the file contains Python code.) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+78 340 m
+280 340 l
+284.4224 340 288 343.5776 288 348 c
+288 424 l
+288 428.4224 284.4224 432 280 432 c
+78 432 l
+73.5776 432 70 428.4224 70 424 c
+70 348 l
+70 343.5776 73.5776 340 78 340 c
+h
+B*
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 90 409 Tm (demo.py) Tj T* ET
+1 w
+.062745 .156863 .247059 RG
+.062745 .156863 .247059 rg
+n
+97 354 m
+261 354 l
+264.3168 354 267 356.6832 267 360 c
+267 387 l
+267 390.3168 264.3168 393 261 393 c
+97 393 l
+93.6832 393 91 390.3168 91 387 c
+91 360 l
+91 356.6832 93.6832 354 97 354 c
+h
+B*
+BT /F3 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 103 373 Tm (print\("Hello World"\)) Tj T* ET
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+332 340 m
+534 340 l
+538.4224 340 542 343.5776 542 348 c
+542 424 l
+542 428.4224 538.4224 432 534 432 c
+332 432 l
+327.5776 432 324 428.4224 324 424 c
+324 348 l
+324 343.5776 327.5776 340 332 340 c
+h
+B*
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 344 409 Tm (Run from terminal) Tj T* ET
+1 w
+.062745 .156863 .247059 RG
+.062745 .156863 .247059 rg
+n
+351 354 m
+515 354 l
+518.3168 354 521 356.6832 521 360 c
+521 387 l
+521 390.3168 518.3168 393 515 393 c
+351 393 l
+347.6832 393 345 390.3168 345 387 c
+345 360 l
+345 356.6832 347.6832 354 351 354 c
+h
+B*
+BT /F3 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 357 373 Tm (python demo.py) Tj T* ET
+.058824 .176471 .290196 rg
+n
+52 265 m
+560 265 l
+563.3168 265 566 267.6832 566 271 c
+566 289 l
+566 292.3168 563.3168 295 560 295 c
+52 295 l
+48.6832 295 46 292.3168 46 289 c
+46 271 l
+46 267.6832 48.6832 265 52 265 c
+h
+f*
+BT /F2 8.8 Tf 10.56 TL ET
+1 1 1 rg
+BT 1 0 0 1 58 276 Tm (Beginner issue) Tj T* ET
+BT 1 0 0 1 208 276 Tm (Why it happens) Tj T* ET
+BT 1 0 0 1 398 276 Tm (Simple fix) Tj T* ET
+1 1 1 rg
+n 46 231 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 231 m 566 231 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 58 251 Tm (File saved as .txt) Tj T* ET
+n 196 265 m 196 231 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 208 251 Tm (Notepad may add .txt if the name is not saved) Tj T* ET
+BT 1 0 0 1 208 241.6 Tm (carefully.) Tj T* ET
+n 386 265 m 386 231 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 398 251 Tm (Save as demo.py and choose all files if needed.) Tj T* ET
+.972549 .984314 .996078 rg
+n 46 197 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 197 m 566 197 l S
+BT /F4 7.7 Tf 9.24 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 58 217 Tm (python not recognized) Tj T* ET
+n 196 231 m 196 197 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 208 217 Tm (The PATH setting is missing or terminal was not) Tj T* ET
+BT 1 0 0 1 208 207.6 Tm (reopened.) Tj T* ET
+n 386 231 m 386 197 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 398 217 Tm (Reinstall with PATH checked or reopen terminal.) Tj T* ET
+1 1 1 rg
+n 46 163 520 34 re f*
+.839216 .890196 .937255 RG
+.6 w
+n 46 163 m 566 163 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 58 183 Tm (Wrong folder) Tj T* ET
+n 196 197 m 196 163 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 208 183 Tm (Terminal is running from a different directory.) Tj T* ET
+n 386 197 m 386 163 l S
+BT /F1 7.4 Tf 8.88 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 398 183 Tm (Move to the file folder, then run python demo.py.) Tj T* ET
+.839216 .890196 .937255 RG
+n 46 163 520 132 re S
+1 w
+.811765 .870588 .92549 RG
+1 1 1 rg
+n
+78 101 m
+534 101 l
+538.4224 101 542 104.5776 542 109 c
+542 145 l
+542 149.4224 538.4224 153 534 153 c
+78 153 l
+73.5776 153 70 149.4224 70 145 c
+70 109 l
+70 104.5776 73.5776 101 78 101 c
+h
+B*
+BT /F2 10.5 Tf 12.6 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 90 135 Tm (Practice sequence) Tj T* ET
+.917647 .952941 1 rg
+n
+100 111 m
+177 111 l
+181.4224 111 185 114.5776 185 119 c
+185 137 l
+185 141.4224 181.4224 145 177 145 c
+100 145 l
+95.5776 145 92 141.4224 92 137 c
+92 119 l
+92 114.5776 95.5776 111 100 111 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.176471 .54902 1 rg
+BT 1 0 0 1 126.359 123 Tm (Open) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 192 128 m 203 128 l S
+n 203 128 m 198 132 l S
+n 203 128 m 198 124 l S
+.909804 .984314 .94902 rg
+n
+215 111 m
+292 111 l
+296.4224 111 300 114.5776 300 119 c
+300 137 l
+300 141.4224 296.4224 145 292 145 c
+215 145 l
+210.5776 145 207 141.4224 207 137 c
+207 119 l
+207 114.5776 210.5776 111 215 111 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.145098 .741176 .466667 rg
+BT 1 0 0 1 241.625 123 Tm (Write) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 307 128 m 318 128 l S
+n 318 128 m 313 132 l S
+n 318 128 m 313 124 l S
+.909804 .972549 .984314 rg
+n
+330 111 m
+407 111 l
+411.4224 111 415 114.5776 415 119 c
+415 137 l
+415 141.4224 411.4224 145 407 145 c
+330 145 l
+325.5776 145 322 141.4224 322 137 c
+322 119 l
+322 114.5776 325.5776 111 330 111 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.082353 .678431 .768627 rg
+BT 1 0 0 1 349.2245 123 Tm (Save .py) Tj T* ET
+.784314 .847059 .909804 RG
+1.2 w
+n 422 128 m 433 128 l S
+n 433 128 m 428 132 l S
+n 433 128 m 428 124 l S
+1 .964706 .862745 rg
+n
+445 111 m
+522 111 l
+526.4224 111 530 114.5776 530 119 c
+530 137 l
+530 141.4224 526.4224 145 522 145 c
+445 145 l
+440.5776 145 437 141.4224 437 137 c
+437 119 l
+437 114.5776 440.5776 111 445 111 c
+h
+f*
+BT /F2 9.5 Tf 11.4 TL ET
+.898039 .603922 0 rg
+BT 1 0 0 1 474.266 123 Tm (Run) Tj T* ET
+1 w
+.737255 .843137 .956863 RG
+.917647 .952941 1 rg
+n
+90 62 m
+522 62 l
+526.4224 62 530 65.5776 530 70 c
+530 84 l
+530 88.4224 526.4224 92 522 92 c
+90 92 l
+85.5776 92 82 88.4224 82 84 c
+82 70 l
+82 65.5776 85.5776 62 90 62 c
+h
+B*
+BT /F2 9.8 Tf 11.76 TL ET
+.058824 .176471 .290196 rg
+BT 1 0 0 1 100 77 Tm (Day 03/55 takeaway) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.07451 .133333 .219608 rg
+BT 1 0 0 1 100 71 Tm (Verify Python, open the prompt, save .py files, and run scripts from the terminal.) Tj T* ET
+.843137 .886275 .929412 RG
+.8 w
+n 46 56 m 566 56 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 46 43 Tm (Python From Zero to Hero - Day 03/55) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.356863 .435294 .52549 rg
+BT 1 0 0 1 249.192 43 Tm (Prepared by Satyanarayan Sen) Tj T* ET
+BT 1 0 0 1 525.08 43 Tm (Page 3 of 3) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.952941 0.972549 0.988235 rg
+n
+66 97 480 64 re
+f*
+1 1 1 rg
+0.811765 0.870588 0.92549 RG
+1 w
+n
+78 101 m
+534 101 l
+538.4224 101 542 104.5776 542 109 c
+542 145 l
+542 149.4224 538.4224 153 534 153 c
+78 153 l
+73.5776 153 70 149.4224 70 145 c
+70 109 l
+70 104.5776 73.5776 101 78 101 c
+h
+B*
+0.917647 0.952941 1 rg
+n
+100 111 m
+177 111 l
+181.4224 111 185 114.5776 185 119 c
+185 137 l
+185 141.4224 181.4224 145 177 145 c
+100 145 l
+95.5776 145 92 141.4224 92 137 c
+92 119 l
+92 114.5776 95.5776 111 100 111 c
+h
+f*
+BT
+/F2-0 9.5 Tf
+11.4 TL
+ET
+0.176471 0.54902 1 rg
+BT
+1 0 0 1 126.359 123 Tm
+(Open) Tj
+T*
+ET
+0.784314 0.847059 0.909804 RG
+1.2 w
+n
+192 128 m
+203 128 l
+S
+n
+203 128 m
+198 132 l
+S
+n
+203 128 m
+198 124 l
+S
+0.909804 0.984314 0.94902 rg
+n
+215 111 m
+292 111 l
+296.4224 111 300 114.5776 300 119 c
+300 137 l
+300 141.4224 296.4224 145 292 145 c
+215 145 l
+210.5776 145 207 141.4224 207 137 c
+207 119 l
+207 114.5776 210.5776 111 215 111 c
+h
+f*
+BT
+/F2-0 9.5 Tf
+11.4 TL
+ET
+0.145098 0.741176 0.466667 rg
+BT
+1 0 0 1 241.625 123 Tm
+(Write) Tj
+T*
+ET
+0.784314 0.847059 0.909804 RG
+1.2 w
+n
+307 128 m
+318 128 l
+S
+n
+318 128 m
+313 132 l
+S
+n
+318 128 m
+313 124 l
+S
+0.909804 0.972549 0.984314 rg
+n
+330 111 m
+407 111 l
+411.4224 111 415 114.5776 415 119 c
+415 137 l
+415 141.4224 411.4224 145 407 145 c
+330 145 l
+325.5776 145 322 141.4224 322 137 c
+322 119 l
+322 114.5776 325.5776 111 330 111 c
+h
+f*
+BT
+/F2-0 9.5 Tf
+11.4 TL
+ET
+0.082353 0.678431 0.768627 rg
+BT
+1 0 0 1 349.2245 123 Tm
+(Save \056py) Tj
+T*
+ET
+0.784314 0.847059 0.909804 RG
+1.2 w
+n
+422 128 m
+433 128 l
+S
+n
+433 128 m
+428 132 l
+S
+n
+433 128 m
+428 124 l
+S
+1 0.964706 0.862745 rg
+n
+445 111 m
+522 111 l
+526.4224 111 530 114.5776 530 119 c
+530 137 l
+530 141.4224 526.4224 145 522 145 c
+445 145 l
+440.5776 145 437 141.4224 437 137 c
+437 119 l
+437 114.5776 440.5776 111 445 111 c
+h
+f*
+BT
+/F2-0 9.5 Tf
+11.4 TL
+ET
+0.898039 0.603922 0 rg
+BT
+1 0 0 1 474.266 123 Tm
+(Run) Tj
+T*
+ET
+0.952941 0.972549 0.988235 rg
+n
+78 58 456 38 re
+f*
+0.917647 0.952941 1 rg
+0.737255 0.843137 0.956863 RG
+1 w
+n
+90 60 m
+522 60 l
+526.4224 60 530 63.5776 530 68 c
+530 86 l
+530 90.4224 526.4224 94 522 94 c
+90 94 l
+85.5776 94 82 90.4224 82 86 c
+82 68 l
+82 63.5776 85.5776 60 90 60 c
+h
+B*
+BT
+/F2-0 9.8 Tf
+11.76 TL
+ET
+0.058824 0.176471 0.290196 rg
+BT
+1 0 0 1 100 81 Tm
+(Day 03\05755 takeaway) Tj
+T*
+ET
+BT
+/F1-0 7.8 Tf
+9.36 TL
+ET
+0.07451 0.133333 0.219608 rg
+BT
+1 0 0 1 100 69 Tm
+(Verify Python\054 open the prompt\054 save \056py files\054 and run scripts from the terminal\056) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000443 00000 n 
+0000013054 00000 n 
+0000013161 00000 n 
+0000013268 00000 n 
+0000013380 00000 n 
+0000013492 00000 n 
+0000013598 00000 n 
+0000013709 00000 n 
+0000013985 00000 n 
+0000014171 00000 n 
+0000022728 00000 n 
+0000022997 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+34095
+%%EOF
